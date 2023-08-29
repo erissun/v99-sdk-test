@@ -1,0 +1,14 @@
+{
+  "name": "v99-sdk-test",
+  "version": "1.0.0",
+  "description": "for cocos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eric.wu",
+  "license": "ISC",
+  "dependencies": {
+    "v99-common": "https://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@github.com/erissun/v99-common-test"
+  }
+}
